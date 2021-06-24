@@ -3,4 +3,4 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 Application of automated classification techniques using Machine Learning(ML) and Artificial Intelligence(AI)has consistently shown higher accuracy than manual classification. Hence, proposing a system performing detection and classification by using Deep Learning Algorithms using Convolution-Neural Network (CNN), Artificial Neural Network (ANN), and Transfer-Learning (TL) would be helpful to doctors all around the world.
 
 ✔️ About the data:
-The dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images. You can find the file here for download : 
+The dataset contains 3 folders: yes, no and pred which contains 3060 Brain MRI Images. You can find the file here for download : kaggle datasets download -d ahmedhamada0/brain-tumor-detection
